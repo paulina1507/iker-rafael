@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "pageTitle": "Bautizo de Iker Rafael"
+  },
+  "site": {
+    "couple": "Bautizo de Iker Rafael"
+  },
+  "nav": {
+    "left": [
+      {
+        "label": "Inicio",
+        "href": "#hero"
+      },
+      {
+        "label": "Presentación",
+        "href": "#presentation"
+      },
+      {
+        "label": "Ceremonia",
+        "href": "#location"
+      }
+    ],
+    "right": [
+      {
+        "label": "Programa",
+        "href": "#timeline"
+      },
+      {
+        "label": "Vestimenta",
+        "href": "#dresscode"
+      },
+      {
+        "label": "Confirmación",
+        "href": "#rsvp"
+      }
+    ]
+  },
+  "music": {
+    "src": "assets/audio/cancion.mp3",
+    "autoplay": true
+  },
+  "hero": {
+    "pretitle": "Santo Bautismo",
+    "names": "Iker Rafael",
+    "date": "2026-07-11T15:00:00",
+    "background": "assets/img/hero.png"
+  },
+  "presentation": {
+    "title": "Con la gracia de Dios",
+    "parents": [
+      {
+        "names": [
+          "Miguel Rafael Montiel García",
+          "Lizbeth Guadalupe Noguez López"
+        ],
+        "note": "Papás"
+      }
+    ],
+    "padrinos": [
+      {
+        "names": [
+          "Roberto Carlos Tirado Baca",
+          "Karla Elizeth Noguez López"
+        ],
+        "note": "Padrinos"
+      }
+    ],
+    "text": "Llenos de fe y amor, presentamos ante Dios a nuestro hijo para recibir el Sacramento del Bautismo y te invitamos a acompañarnos en este momento tan especial.",
+    "icon": "assets/img/cruz.svg"
+  },
+  "gratitude": {
+    "title": "Con gratitud",
+    "text": "Agradecemos a Dios y a cada uno de ustedes por acompañarnos en este día tan especial para nuestra familia."
+  },
+  "location": {
+    "title": "Ubicación",
+    "subtitle": "Fecha y lugar",
+    "dateText": "11 · Julio · 2026",
+    "places": [
+      {
+        "title": "Ceremonia",
+        "time": "03:00 PM",
+        "image": "assets/img/ceremonia.png",
+        "place": "Parroquia de Nuestra Señora de Guadalupe",
+        "address": "Av Orquídeas Manzana #047, Villa de las Flores, 55710 San Francisco Coacalco, Méx.",
+        "map": "https://maps.app.goo.gl/oKYnGb4y6z2q1QfZ9"
+      },
+      {
+        "title": "Recepción",
+        "time": "05:00 PM",
+        "image": "assets/img/recepcion.png",
+        "place": "Jardín de Eventos Krystal",
+        "address": "C. 2 #23, Ejidal, 55700 San Francisco Coacalco, Méx.",
+        "map": "https://maps.app.goo.gl/4942vS8VEAX4pYGo7"
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Programa",
+    "items": [
+      {
+        "time": "03:00 PM",
+        "text": "Celebración del Sacramento del Bautismo",
+        "icon": "assets/img/3.svg"
+      },
+      {
+        "time": "04:00 PM",
+        "text": "Bendición y fotografías",
+        "icon": "assets/img/4.svg"
+      },
+      {
+        "time": "05:00 PM",
+        "text": "Recepción",
+        "icon": "assets/img/6.svg"
+      },
+      {
+        "time": "06:00 PM",
+        "text": "Comida",
+        "icon": "assets/img/7.svg"
+      }
+    ]
+  },
+  "celebration": {
+    "title": "Un día de fe y amor",
+    "text": "Acompáñanos a celebrar este momento tan importante en la vida espiritual de Iker Rafael."
+  },
+  "dresscode": {
+    "title": "Código de Vestimenta",
+    "type": "FORMAL",
+    "image": "assets/img/9.svg",
+    "menTitle": "",
+    "womenTitle": "",
+    "men": [],
+    "women": [],
+    "note": "Te invitamos a asistir con un atuendo formal y respetuoso, acorde a la ceremonia religiosa."
+  },
+  "gifts": {
+    "title": "Sugerencia de Regalos",
+    "intro": "Lo más importante es compartir este día contigo, pero si deseas obsequiarnos algo, lo recibiremos con mucho cariño.",
+    "options": [
+      {
+        "title": "",
+        "description": "",
+        "type": "link",
+        "url": "",
+        "buttonText": ""
+      },
+      {
+        "title": "",
+        "description": "",
+        "type": "text"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería",
+    "type": "images",
+    "items": [
+      "assets/img/gallery/1.jpg",
+      "assets/img/gallery/2.jpg",
+      "assets/img/gallery/4.jpg",
+      "assets/img/gallery/5.jpg",
+      "assets/img/gallery/6.jpg",
+      "assets/img/gallery/7.jpg",
+      "assets/img/gallery/8.jpg",
+      "assets/img/gallery/9.jpg",
+      "assets/img/gallery/3.jpg"
+    ]
+  },
+  "rsvp": {
+    "phone": "525514850575",
+    "title": "Confirmación de Asistencia",
+    "intro": "Nos encantará contar contigo. Por favor confirma tu asistencia.",
+    "fields": {
+      "namePlaceholder": "Nombre completo",
+      "attendancePlaceholder": "¿Podrás acompañarnos?",
+      "attendanceOptions": [
+        "Sí asistiré",
+        "No podré asistir"
+      ],
+      "messagePlaceholder": "Mensaje o bendición",
+      "buttonText": "Confirmar por WhatsApp"
+    },
+    "note": "Agradecemos confirmar antes del <strong>20 de junio de 2026</strong>.",
+    "success": "Gracias por confirmar"
+  },
+  "footer": {
+    "names": "Bautizo de Iker Rafael",
+    "credits": "Diseñado con amor por Shiny Maker Studio"
+  }
+}
